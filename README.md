@@ -206,4 +206,4 @@ This project is available under the MIT License. Feel free to use, modify, and d
 
 ## Acknowledgments
 
-Created by [Your Name/Username]. Inspired by the need for a robust input system for MonoGame projects.
+Created by cacticrown. Inspired by the need for a robust input system for MonoGame projects.
